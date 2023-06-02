@@ -1,0 +1,67 @@
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.deps.json
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\ref\USW Pathfinder.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.csprojAssemblyReference.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.AssemblyInfoInputs.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.AssemblyInfo.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.csproj.CoreCompileInputs.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\ref\USW Pathfinder.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Navigation.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.deps.json
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\ref\USW Pathfinder.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.csprojAssemblyReference.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Navigation.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.AssemblyInfoInputs.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.AssemblyInfo.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.csproj.CoreCompileInputs.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\XamlC.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\ref\USW Pathfinder.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Cardiff.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Glyntaff.xaml.g.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Newport.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.deps.json
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.dll
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\ref\USW Pathfinder.dll
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\bin\Debug\netstandard2.0\USW Pathfinder.pdb
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.csproj.AssemblyReference.cache
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Cardiff.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Glyntaff.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Navigation.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\Views\Newport.xaml.g.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.AssemblyInfoInputs.cache
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.AssemblyInfo.cs
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.csproj.CoreCompileInputs.cache
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.dll
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\ref\USW Pathfinder.dll
+C:\Users\nico2\Desktop\USW Pathfinder\USW Pathfinder\USW Pathfinder\obj\Debug\netstandard2.0\USW Pathfinder.pdb

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="USW_Pathfinder.Views.AboutPage"
+             xmlns:vm="clr-namespace:USW_Pathfinder.ViewModels" 
+             xmlns:local="clr-namespace:USW_Pathfinder.Models"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#C41E3C</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackLayout BackgroundColor="{StaticResource Accent}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+                    <Image Source="university_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                </ContentView>
+            </StackLayout>
+        </StackLayout>
+        <ScrollView Grid.Row="1">
+            <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
+                <Label Text="The USW pathfinder app is here to help you, please select open navigation screen to give it a try!" FontSize="20" FontAttributes="Bold" Padding="0,0,0,0"/>
+                <Label Text="How it works:" FontSize="Title"/>
+                <Label Text="Tap open navigation" FontSize="Title"/>
+                <Label Text="Select a campus" FontSize="Title"/>
+                <Label Text="Tap go to campus to begin" FontSize="Title"/>
+                <Button Margin="0,10,0,0" Text="Open Navigation" 
+                        Clicked="CampusSelectButton_OnClicked"
+                        BackgroundColor="#C41E3C"
+                        TextColor="White">
+                </Button>
+                <Label FontSize="10" Padding="0,16,0,0">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <FormattedString.Spans>
+                                <Span Text="Not sure where to go? Check out our university's list of courses to see where they take place!" FontSize="20" FontAttributes="Bold"/>
+                            </FormattedString.Spans>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                <Label FontSize="10" Padding="0,24,0,0" TextDecorations="Underline" TextColor="Blue">
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="CoursesTapped"/>
+                    </Label.GestureRecognizers>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <FormattedString.Spans>
+                                <Span Text="https://www.southwales.ac.uk/courses/" FontSize="20" FontAttributes="Bold"/>
+                            </FormattedString.Spans>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </StackLayout>
+        </ScrollView>
+    </Grid>
+
+</ContentPage>

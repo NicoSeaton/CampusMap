@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="USW_Pathfinder.Views.Cardiff">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Padding="30" VerticalOptions="Start" >
+            <Grid      ColumnDefinitions="75*, 25*"  ColumnSpacing="6" HorizontalOptions="FillAndExpand">
+                <Button Text="Find" BackgroundColor="#C41E3C"
+                    WidthRequest="70" 
+                    HeightRequest="40" 
+                     Grid.Column="1"
+                    Clicked="NavigateButton_OnClicked"
+                    HorizontalOptions="EndAndExpand">
+                </Button>
+                <Picker Title="Select a building"
+        TitleColor="Red" HorizontalOptions="FillAndExpand"  VerticalOptions="Start"  HeightRequest="40" Grid.Column="0">
+                    <Picker.Items>
+                        <x:String>Atrium</x:String>
+                        <x:String>TV and film studio</x:String>
+                        <x:String>Dance studio</x:String>
+                        <x:String>Fashion studio</x:String>
+                    </Picker.Items>
+                </Picker>
+            </Grid>
+            <Image Source="cardiffcampus.png" WidthRequest = "2400" HeightRequest = "630" Aspect="AspectFill">
+                <Image.GestureRecognizers>
+                    <PinchGestureRecognizer PinchUpdated="OnPinchUpdated" />
+                </Image.GestureRecognizers>
+            </Image>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

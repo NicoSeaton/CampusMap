@@ -1,0 +1,1016 @@
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\USW Pathfinder.Android.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\USW Pathfinder.Android.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder.apk
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder.aab
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder-Signed.aab
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder-Signed.apk
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder-Signed.apk.idsig
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\USW Pathfinder.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\USW Pathfinder.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\build.props
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\adb.props
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.csprojAssemblyReference.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res.flag
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\12\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\13\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\17\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\19\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\26\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\30\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\32\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\33\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\34\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\38\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\39\jl\files.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\R.txt
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\R.cs.flag
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.csproj.CoreCompileInputs.cache
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\XamlC.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.csproj.CopyComplete
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\com.companyname.usw_pathfinder.apk
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\base.zip
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\com.companyname.usw_pathfinder.aab
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\com.companyname.usw_pathfinder.apks
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\drawable\xamarin_logo.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\drawable\tab_about.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\drawable\tab_feed.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\uploadflags.txt
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\resolvedassemblies.hash
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\USW Pathfinder.Android.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\USW Pathfinder.Android.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\USW Pathfinder.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\USW Pathfinder.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.x86.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\__environment__.txt
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\machine.config
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\static.flag
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\buildid.txt
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.x86.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.x86_64.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64c84db17defa19451\MainActivity.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\packaged_resources
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\com\companyname\usw_pathfinder\R.java
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.x86.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.x86.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.x86_64.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\classes.dex
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Itinero.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Itinero.IO.Osm.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\OsmSharp.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\protobuf-net.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Reminiscence.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Buffers.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Memory.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Reflection.Emit.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Reflection.Emit.ILGeneration.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Reflection.Emit.Lightweight.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\drawable\university_logo.png
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\GeoAPI.CoordinateSystems.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\GeoAPI.CoordinateSystems.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\GeoAPI.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\GeoAPI.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Itinero.Geo.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Itinero.IO.Shape.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.CoordinateSystems.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.CoordinateSystems.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.Features.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.Features.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.IO.GeoTools.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.pdb
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Text.Encoding.CodePages.dll
+C:\Users\nico2\Desktop\Project 2020-20201\USW Pathfinder\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Text.Encoding.CodePages.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\USW Pathfinder.Android.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\USW Pathfinder.Android.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder.apk
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder.aab
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder-Signed.aab
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder-Signed.apk
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\com.companyname.usw_pathfinder-Signed.apk.idsig
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\USW Pathfinder.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\bin\Debug\USW Pathfinder.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\build.props
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\adb.props
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.csprojAssemblyReference.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res.flag
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\13\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\33\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\34\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\39\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\R.txt
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\R.cs.flag
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.csproj.CoreCompileInputs.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\XamlC.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.csproj.CopyComplete
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\USW Pathfinder.Android.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\com.companyname.usw_pathfinder.apk
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\base.zip
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\com.companyname.usw_pathfinder.aab
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\com.companyname.usw_pathfinder.apks
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\values\styles.xml
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\values\colors.xml
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\drawable\xamarin_logo.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\drawable\tab_about.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\drawable\tab_feed.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\res\drawable\university_logo.png
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\uploadflags.txt
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\resolvedassemblies.hash
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\FormsViewGroup.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\GeoAPI.CoordinateSystems.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\GeoAPI.CoordinateSystems.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\GeoAPI.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\GeoAPI.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Itinero.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Itinero.Geo.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Itinero.IO.Osm.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Itinero.IO.Shape.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Java.Interop.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Mono.Android.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Mono.Security.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\mscorlib.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\netstandard.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.CoordinateSystems.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.CoordinateSystems.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.Features.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.Features.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.IO.GeoTools.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.IO.ShapeFile.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\NetTopologySuite.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\OsmSharp.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\protobuf-net.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Reminiscence.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Buffers.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Core.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Data.DataSetExtensions.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Data.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Drawing.Common.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Drawing.Common.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.IO.Compression.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Memory.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Net.Http.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Numerics.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Reflection.Emit.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Reflection.Emit.ILGeneration.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Reflection.Emit.Lightweight.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Text.Encoding.CodePages.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Text.Encoding.CodePages.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Transactions.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Web.Services.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Xml.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Xml.Linq.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\USW Pathfinder.Android.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\USW Pathfinder.Android.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\USW Pathfinder.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\USW Pathfinder.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v4.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Essentials.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.arm64-v8a.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.armeabi-v7a.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.x86.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.x86_64.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.armeabi-v7a-shared.inc
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.shared.inc
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\AndroidManifest.xml
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\__environment__.txt
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\MonoRuntimeProvider.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\assets\machine.config
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\mono.android.jar
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\static.flag
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\buildid.txt
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.arm64-v8a.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.armeabi-v7a.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.x86.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.x86_64.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\compat\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\transition\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\Listener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\CustomTabsServiceConnectionImpl.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64a98abb514ffad9f1\KeepAliveService.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64c84db17defa19451\MainActivity.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\OnApplyWindowInsetsListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_OnNavigationListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\app\ActionBar_TabListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\MenuItemHoverListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnDismissListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnCloseListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnQueryTextListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\SearchView_OnSuggestionListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\android\support\v7\widget\ViewStubCompat_OnInflateListenerImplementor.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\packaged_resources
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\src\com\companyname\usw_pathfinder\R.java
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.x86.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.x86_64.s
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.arm64-v8a.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.armeabi-v7a.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.x86.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\typemaps.x86_64.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.arm64-v8a.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.armeabi-v7a.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.x86.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\environment.x86_64.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.arm64-v8a.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.armeabi-v7a.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.x86.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\compressed_assemblies.x86_64.o
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\app_shared_libraries\x86\libxamarin-app.so
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\android\bin\classes.dex
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_CompileToDalvik.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_ConvertCustomView.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_ConvertResourcesCases.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\12\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\17\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\19\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\26\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\30\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\32\jl\files.cache
+C:\USW Pathfinder\USW Pathfinder\USW Pathfinder.Android\obj\Debug\90\lp\38\jl\files.cache

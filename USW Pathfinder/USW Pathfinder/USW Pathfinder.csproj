@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+ 
+  
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+ 
+  
+
+  <ItemGroup>
+    <None Remove="Cardiffcampus.png" />
+    <None Remove="Glyntaffcampus.png" />
+    <None Remove="Newportcampus.png" />
+    <None Remove="Resource\Cardiffcampus.png" />
+    <None Remove="Resource\glyntaffcampus.png" />
+    <None Remove="Resource\Newportcampus.png" />
+    <None Remove="Resource\treforestcampus.png" />
+    <None Remove="treforestcampus.png" />
+  </ItemGroup>
+ 
+  
+
+  <ItemGroup>
+    <EmbeddedResource Include="cardiffcampus.png" />
+    <EmbeddedResource Include="glyntaffcampus.png" />
+    <EmbeddedResource Include="newportcampus.png" />
+    <EmbeddedResource Include="Resource\cardiffcampus.png" />
+    <EmbeddedResource Include="Resource\glyntaffcampus.png" />
+    <EmbeddedResource Include="Resource\newportcampus.png" />
+    <EmbeddedResource Include="Resource\treforestcampus.png" />
+    <EmbeddedResource Include="treforestcampus.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Itinero" Version="1.6.0-pre031" />
+    <PackageReference Include="Itinero.Geo" Version="1.6.0-pre031" />
+    <PackageReference Include="Itinero.IO.Osm" Version="1.6.0-pre031" />
+    <PackageReference Include="Itinero.IO.Shape" Version="1.6.0-pre031" />
+    <PackageReference Include="System.Numerics.Vectors" Version="4.5.0" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />  
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\CampusSelect.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Cardiff.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Glyntaff.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Navigation.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Newport.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
